@@ -1,0 +1,7 @@
+/shop/* https://shop.berlintapete.de/api/v2/:splat 200
+/smugmug/* https://api.smugmug.com/api/v2/:splat 200
+/bildstock/* https://bildstock.berlintapete.de/api/v2/:splat 200
+/smimg/* https://photos.smugmug.com/:splat 200
+/smimg2/* https://cdn2.smugmug.com/:splat 200
+
+/easybill/* https://api.easybill.de/rest/v1/:splat 200
